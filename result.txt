@@ -1,0 +1,16 @@
+B: Rains of Castamere 
+D: #A 
+Q: 0 0 0 6,, | 4,. 6,,/ 4,. 6,,/ | 4, 5, 4,. 6,,/ | 5, 4, 3, 2, | 3, - - - | 
+C: @@@And/who/are/you/the/proud/lord/said/that/I/must/bow/so/low?/ 
+Q: 6,/ 6, 6#,/ 5, 1,/ 1,/ | 6, 6#, 5,. 6,/ | 6#, 6, 5, 4, | 3, - - 6,,/ 6,,/ | 
+C: On-ly/a/cat/of/a/diff-crend/coad/thats/all/the/truth/I/know/In/a 
+Q: 4,. 6,,/ 3,. 6,,/ | 4, 5, 3,. 6,, | 5, 4, 3, 2, | 3, - - 1, | 6,. 6#, 5,. 1, |  
+C: coat/of/gold/a/coat/of/red/a/li-on/still/has/claws/and/mine/are/long/and/ 
+Q: 6, 6#, 5,. 6,/ | 6#, 6, 5, 4, | 2, - - - | 0 0 0 6,, | 3,/ 4,/ 2, - 4, |  
+C: sharp/my/lord/as/long/as/sharp/as/yours@@@And/so/he/spoke/and/ 
+Q: 4,/ 3,/ 6,, - 0/ 6,,/ | 4,/ 4,/ 2, - 4, | 4,/ (3,./ 3,) - 6,, | 3,/ 4,/ 2, - 6, |  
+C: so/he/spoken@that/lord/of/ca-sta-me-re/But/now/the/rains/weep/ 
+Q: 6, 5, 2,. 4,/ | 4,. 2,/ 3,. 4,/ | 2, - - 6,, | 3,/ 4,/ 2, - 6, |  
+C: oer/his/hall/with/no/one/there/to/hear/Yes/now/the/rains/weep/ 
+Q: 6, 5, 2,. 4,/ | (4, 4,/) 2,/ 6,/ 5,/ 3,/ 4,/ | 2, - - - | 
+C: oer/his/hall/and/not/a/s-o-ul/to/hear/
