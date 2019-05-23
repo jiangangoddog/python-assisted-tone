@@ -1,4 +1,4 @@
-B: Rains of Castamere 
+B: The Rains of Castamere 
 D: #A 
 Q: 0 0 0 6,, | 4,. 6,,/ 4,. 6,,/ | 4, 5, 4,. 6,,/ | 5, 4, 3, 2, | 3, - - - | 
 C: @@@And/who/are/you/the/proud/lord/said/that/I/must/bow/so/low?/ 
