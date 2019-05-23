@@ -13,4 +13,4 @@ C: so/he/spoken@that/lord/of/ca-sta-me-re/But/now/the/rains/weep/
 Q: 6, 5, 2,. 4,/ | 4,. 2,/ 3,. 4,/ | 2, - - 6,, | 3,/ 4,/ 2, - 6, |  
 C: oer/his/hall/with/no/one/there/to/hear/Yes/now/the/rains/weep/ 
 Q: 6, 5, 2,. 4,/ | (4, 4,/) 2,/ 6,/ 5,/ 3,/ 4,/ | 2, - - - | 
-C: oer/his/hall/and/not/a/s-o-ul/to/hear/
+C: oer/his/hall/and/not@a/s-o-ul/to/hear/
