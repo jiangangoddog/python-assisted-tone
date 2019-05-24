@@ -2,7 +2,7 @@
 笔者最近刚刚接触民乐，深感变调之痛苦，为了可以方便的变调，遂写此脚本，可以方便的比较各调式的相关参数，并输出不同调式的曲谱。
 
 ## 更新日志
-2019-5-23 上传项目
+2019-5-23 上传项目<br>
 2019-5-24 发现调式对照表有问题，更新
 
 ## 使用环境
@@ -13,7 +13,7 @@ numpy 1.13.3<br>
 prettytable 0.7.2
 
 ## 使用方法
-1、制作[调式对照表](https://github.com/jiangangoddog/python-assisted-tone/blob/master/tone.xlsx)，该表有效范围是超低音B-超高音B，足以满足大多数曲子的需求，如有特殊需要，可自行继续补充。<br>
+1、制作[调式对照表](https://github.com/jiangangoddog/python-assisted-tone/blob/master/tune.xlsx)，该表有效范围是超低音B-超高音B，足以满足大多数曲子的需求，如有特殊需要，可自行继续补充。<br>
 2、打开[番茄简谱](http://jianpu99.net/),按照语法打出曲谱脚本（最麻烦的一步，目前没有发现更好的方法），注意在音符之间要打空格，将该文件命名为[music.txt](https://github.com/jiangangoddog/python-assisted-tone/blob/master/music.txt)。这里以刚刚完结的美剧《权游》插曲《卡斯特梅的雨季》为例。<br>
 ![番茄简谱](https://github.com/jiangangoddog/python-assisted-tone/blob/master/image/%E7%95%AA%E8%8C%84%E7%AE%80%E8%B0%B1.png)<br>
 3、将打好的曲谱复制粘贴进入番茄曲谱编辑器，这一步的主要目的是利用编辑器自带的自动格式化脚本的功能补齐缺失空格，如果确认空格打全，可以省略这一步，也可以上一步偷懒不打空格，这一步自动补齐，在这一步我们可以发现，番茄简谱对于英文标点的支持并不好，这里删去了几乎所有的标点，较为遗憾。<br>
