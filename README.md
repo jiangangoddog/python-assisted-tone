@@ -21,4 +21,4 @@ prettytable 0.7.2
 output(final_tune='C')
 ```
 可以输出名为[result.txt](https://github.com/jiangangoddog/python-assisted-tone/blob/master/result.txt)的曲谱脚本文件，复制到番茄简谱编辑器中，调整页面，可以输出好看的新调式的简谱。该函数只有一个参数final_tune，默认值是’C'，可选'C', '升C', 'D', '升D', 'E','F','升F', 'G', '升G', 'A', '升A', 'B'中除原调外的曲调。<br>
-![The rains of castamere](https://github.com/jiangangoddog/python-assisted-tone/blob/master/image/the%20rains%20of%20castamere.jpg)
+![The rains of castamere](https://github.com/jiangangoddog/python-assisted-tone/blob/master/image/The%20rains%20of%20castamere.jpg)
