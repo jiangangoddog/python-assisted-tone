@@ -15,7 +15,7 @@ prettytable 0.7.2
 3、将打好的曲谱复制粘贴进入番茄曲谱编辑器，这一步的主要目的是利用编辑器自带的自动格式化脚本的功能补齐缺失空格，如果确认空格打全，可以省略这一步，也可以上一步偷懒不打空格，这一步自动补齐，在这一步我们可以发现，番茄简谱对于英文标点的支持并不好，这里删去了几乎所有的标点，较为遗憾。<br>
 ![编辑器界面](https://github.com/jiangangoddog/python-assisted-tone/blob/master/image/123.png)<br>
 4、打开脚本[tone.py](https://github.com/jiangangoddog/python-assisted-tone/blob/master/tone.py)，运行，可以看到得出了各种曲调的比较表：<br>
-![不同调式的比较](https://github.com/jiangangoddog/python-assisted-tone/blob/master/image/QQ%E6%88%AA%E5%9B%BE20190524001720.png)<br>
+![不同调式的比较](https://github.com/jiangangoddog/python-assisted-tone/blob/master/image/QQ%E6%88%AA%E5%9B%BE20190524190429.png)<br>
 5、选择合适的目标调式运行命令<br>
 ```
 output(final_tune='C')
