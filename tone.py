@@ -58,7 +58,7 @@ def output(final_tune='C'):#输出目标调式曲子
         file.write(globals()[final_tune][1:])#输出新调式曲子，删除第一行空行
         file.close()#关闭文件
 
-tune = pd.read_excel('tone.xlsx').astype(str)#读取调式对照表
+tune = pd.read_excel('tune.xlsx').astype(str)#读取调式对照表
 music = open('music.txt',encoding='utf-8').read()#读取标准化格式曲谱脚本
 initial_tune = re.search('D: (.*)\n',music).group(1)#读取原曲调式
 music = music.replace('\n',' ').split(' ')#将string变为list，方便后续操作
